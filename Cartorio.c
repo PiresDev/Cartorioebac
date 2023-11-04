@@ -143,7 +143,7 @@ int main()
 		break;
 		
 		case 4:
-		printf(" Obrunigado por sair do sistema");
+		printf(" Obrigado por sair do sistema");
 		return 0;
 		break;	
 		
